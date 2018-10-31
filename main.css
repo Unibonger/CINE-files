@@ -15,7 +15,11 @@ p {
 .images-carousel {
 	height:40vh;
 }
-.images-carousel-container{text-align: center;}
+.images-carousel-container{
+	text-align: center;
+	display: flex;
+	}
+
 #slogan {
   text-align: center;
 }
